@@ -8,6 +8,5 @@ target 'ComponentA_Example' do
   target 'ComponentA_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
   end
 end
